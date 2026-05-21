@@ -53,70 +53,62 @@ SHARIAH FRAMEWORK (TAKAFUL):
 - Avoids: Riba (interest), Gharar (excessive uncertainty), Maysir (gambling)
 - Participants contribute to common fund
 - Surplus shared among participants or donated to charity
-- TILIL uses "profit-loss sharing" (লাভ-ক্ষতি ভিত্তিক) basis
+- TILIL uses "profit-loss sharing" basis
 - Bonuses from actual surplus, NOT guaranteed interest
 - Investments only in Shariah-compliant assets
 - Dual oversight: Board of Directors + Shariah Council
 
 ═══ INDIVIDUAL PRODUCTS ═══
 
-1. ORDINARY SAVINGS PLAN (সাধারণ মেয়াদী বীমা):
+1. ORDINARY SAVINGS PLAN:
    Flagship endowment plan. Regular premiums over fixed term.
    Maturity: Sum Assured + bonuses (profit-loss sharing).
    Death Benefit: Full Sum Assured to nominee.
    Best For: Salaried individuals, families wanting savings + life cover.
 
-2. ANTICIPATED ENDOWMENT PLANS (প্রত্যাশিত মেয়াদি বীমা):
+2. ANTICIPATED ENDOWMENT PLANS:
    Pays portions of Sum Assured at intervals during term. Full death benefit maintained.
-   - 3 Installment (তিন কিস্তি): SA in 3 payments
-   - 4 Installment (চার কিস্তি): SA in 4 payments (good for education milestones)
-   - 5 Installment (পাঁচ কিস্তি): SA in 5 payments (long-term regular payouts)
+   - 3 Installment: SA in 3 payments
+   - 4 Installment: SA in 4 payments (good for education milestones)
+   - 5 Installment: SA in 5 payments (long-term regular payouts)
    All on profit-loss sharing basis with maturity bonuses.
 
-3. BIENNIAL ASSURANCE PLAN (দ্বি-বার্ষিক কিস্তি বীমা):
+3. BIENNIAL ASSURANCE PLAN:
    Fixed % of SA paid every 2 years. Savings + periodic income.
-   Profit-loss sharing basis. Best For: Bi-annual income needs.
+   Profit-loss sharing basis.
 
-4. SINGLE PREMIUM PLAN (একক প্রিমিয়াম বীমা):
+4. SINGLE PREMIUM PLAN:
    One lump-sum payment. Non-participating (no bonus).
-   SA paid at maturity or death. Best For: Lump-sum investors.
+   SA paid at maturity or death.
 
-5. MONTHLY SAVINGS MICRO INSURANCE (মাসিক সঞ্চয়ী ক্ষুদ্র বীমা):
+5. MONTHLY SAVINGS MICRO INSURANCE:
    Small monthly contributions. Maturity: SA + bonuses.
-   Target: Low-income workers, rural populations, daily wage earners.
+   Target: Low-income workers, rural populations.
 
-6. MONTHLY SAVINGS — TWO INSTALLMENT (মাসিক সঞ্চয়ী বীমা - দুই কিস্তি):
+6. MONTHLY SAVINGS — TWO INSTALLMENT:
    Monthly premiums. Payout in 2 installments (mid-term + maturity).
-   Best For: Middle-income families with two planned expenses.
 
-7. SUHRID SAMOHAR PLAN (সুহৃদ সমহার বীমা):
-   Double-money plan. Maturity: 2× Sum Assured.
-   Non-participating (no bonus). Best For: Investment seekers.
+7. SUHRID SAMOHAR PLAN:
+   Double-money plan. Maturity: 2x Sum Assured. Non-participating.
 
 ═══ SHARIAH-SPECIFIC PLANS ═══
 
-8. HAJJ INSURANCE PLAN (হজ্য বীমা):
+8. HAJJ INSURANCE PLAN:
    Systematic Hajj savings + life cover. Regular premiums.
-   Maturity: SA + bonuses for Hajj expenses.
-   If policyholder dies: nominee gets SA. Shariah Council Approved.
+   Maturity: SA + bonuses for Hajj expenses. Shariah Council Approved.
 
-9. DENMOHOR (MAHR) PLAN (দেনমোহর বীমা):
-   Save for Islamic marriage obligation (Mahr).
-   Regular premiums. Maturity: SA + bonuses to fulfill Mahr.
-   Best For: Families planning marriages.
+9. DENMOHOR (MAHR) PLAN:
+   Save for Islamic marriage obligation (Mahr). Regular premiums.
 
 ═══ FAMILY & RETIREMENT ═══
 
-10. CHILD PROTECTION PLAN (শিশু নিরাপত্তা বীমা):
+10. CHILD PROTECTION PLAN:
     Secures child's future. Policy by parent/guardian for child.
-    KEY: If parent dies → policy continues, premiums may be waived, child gets full SA + bonuses at maturity.
-    Example: Father takes 15-yr plan (BDT 5,00,000) when daughter is 3. Father dies at age 10 → policy continues free. At 18, daughter gets BDT 5,00,000 + bonuses for university.
+    KEY: If parent dies, policy continues, premiums may be waived, child gets full SA + bonuses at maturity.
 
-11. PENSION SCHEME (পেনশন বীমা):
+11. PENSION SCHEME:
     Retirement savings. Regular premiums during working years.
     Lump sum at retirement. Non-participating.
-    Death before maturity: accumulated fund to nominee.
-    Best For: Self-employed, private sector without pension.
 
 ═══ GROUP INSURANCE & HEALTH ═══
 
@@ -124,51 +116,35 @@ SHARIAH FRAMEWORK (TAKAFUL):
 13. Accidental Death Benefit (ADB): Additional SA (effectively doubled).
 14. Permanent Total Disability (PTD): Full SA on permanent total disability.
 15. Permanent Partial Disability (PPD): Proportional benefit per Bangladesh Labor Law.
-16. Critical Illness: 18 covered conditions — Cancer, Heart Attack, Stroke, Coronary Bypass, Kidney Failure, Organ Transplant, Paralysis, MS, Loss of Limbs, Blindness, Heart Valve Replacement, Aorta Surgery, Aplastic Anemia, Brain Tumor, Lung Disease, Deafness, Head Trauma, Loss of Speech.
+16. Critical Illness: 18 covered conditions.
 
 HEALTH PRODUCTS:
-- IPD (In-Patient): Hospital stay 24+ hrs — room, surgery, meds, diagnostics
-- Maternity: Normal delivery, caesarean, ectopic, miscarriage (up to age 45)
-- OPD (Out-Patient): Doctor consultation, medicine, diagnostics
-- Dental OPD: Fillings, extraction, root canal, scaling (1x/yr/member)
-- Optical OPD: Vision tests, lenses, spectacles
-
-═══ PLAN RECOMMENDATIONS ═══
-- Young professional → Ordinary Savings + Pension
-- Parent with young children → Child Protection + Ordinary
-- Low-income earner → Micro Savings
-- Muslim planning Hajj → Hajj Insurance
-- Family planning marriage → Denmohor (Mahr)
-- Self-employed / no pension → Pension Scheme
-- Lump-sum savings → Single Premium or Suhrid
-- Employer/org → Group Insurance + Health
-- Expatriate worker → Manpower Insurance
+- IPD (In-Patient): Hospital stay 24+ hrs
+- Maternity Benefits
+- OPD (Out-Patient)
+- Dental OPD
+- Optical OPD
 
 ═══ ONLINE SERVICES ═══
-- Premium Calculator: www.trustislamilife.com (enter DOB, Plan, SA)
+- Premium Calculator: www.trustislamilife.com
 - Policy Ledger: Check payment history by Policy Number
 - Pay Premium Online: payment.trustislamilife.com
-- Online Claim: Group insurance claims online
-- Hospital List: Empaneled hospitals for health insurance
-- Key Fact Statements: Downloadable disclosure docs
+- Online Claim Submission
+- Hospital List
 
-═══ GLOSSARY ═══
-- Sum Assured: Guaranteed amount at death/maturity
-- Premium: Regular payment to keep policy active
-- Maturity: Policy end date / payout date
-- Nominee: Person receiving death benefit
-- Bonus: Additional amount from fund surplus
-- Takaful: Islamic mutual insurance
-- Riba: Interest (prohibited)
-- Gharar: Excessive uncertainty (prohibited)
-- Shariah Council: Islamic scholars certifying compliance
-- Endowment: Savings + life insurance plan
-- IDRA: Insurance Development & Regulatory Authority
-- Non-participating: No bonus/surplus sharing
+═══ HANDLING CARD SELECTIONS ═══
 
-═══════════════════════════════════════
-END OF KNOWLEDGE BASE
-═══════════════════════════════════════
+When a user selects one of the following cards, respond accordingly:
+
+"New Policy" → Guide them about available TILIL plans, ask about their needs (savings, child, hajj, pension, etc.), and recommend suitable plans. Be welcoming and educational.
+
+"Premium Policy" → Explain what premium payments are, how TILIL premium works, guide them to the online premium calculator at www.trustislamilife.com, and explain payment options including payment.trustislamilife.com.
+
+"Existing Policy" → Guide them on how to check their existing policy status via the Policy Ledger on the TILIL website, explain what they can do (check payment history, view policy details), and suggest contacting the TILIL office for specific account queries.
+
+"Claim" → Explain the general claim process overview, mention that group insurance claims can be submitted online, individual claims should be processed through a TILIL agent, and provide the contact number +88 024 8313370.
+
+"Help" → Provide general assistance, list what you can help with (plan info, comparisons, Shariah concepts, contact details, online services), and offer to answer any specific questions. Be warm and supportive.
 
 REMINDERS:
 - Base all answers on the documentation above
