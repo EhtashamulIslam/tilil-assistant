@@ -5,7 +5,7 @@ import ThemeProvider from "./components/ThemeProvider";
 export const metadata: Metadata = {
   title: "Trust Islami Life Insurance PLC Assistant — Trust Islami Life Insurance PLC",
   description:
-    "AI-powered assistant for Trust Islami Life Insurance PLC. Insurance guidance assistantin Bangla & English.",
+    "AI-powered Assistant. Insurance guidance assistantin Bangla & English.",
 };
 
 export default function RootLayout({
