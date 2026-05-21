@@ -281,7 +281,7 @@ export default function ChatInterface() {
               Trust Islami Life Insurance PLC
             </h2>
             <p className="text-sm text-gray-500 dark:text-gray-400 max-w-md leading-relaxed mb-1">
-              Shariah-compliant insurance guidance in Bangla &amp; English
+              Insurance guidance in Bangla &amp; English
             </p>
             <p className="text-xs text-gray-400 dark:text-gray-500 italic mb-8">
               আপনি বাংলায় বা ইংরেজিতে যেকোনো প্রশ্ন করতে পারেন
